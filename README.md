@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning sql to strengthen my skills
 - 🤔 I’m looking for help with dbms
 - 💬 Ask me about sql,html,css
-- 📫 How to reach me: sknandanwar02@gmail.com and https://www.linkedin.com/in/shashank-nandanwar-4a3493227/
+- 📫 How to reach me: sknandanwar02@gmail.com 
 
